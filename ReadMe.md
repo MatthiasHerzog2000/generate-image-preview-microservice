@@ -40,3 +40,4 @@ The aim of this Projects is to recreate a Google Drive like experience for your 
 Clone the Project with `git clone https://github.com/MatthiasHerzog2000/generate-image-preview-microservice.git`.
 After this you need to install the node modules. Type `npm install` into the console.
 The next Step is to create a _config.js_ File. This File stores the secret for the JWT Middleware to check.
+For a more stable experience you can run `unoconv --listener` in a seperate Terminal.
